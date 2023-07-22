@@ -18,3 +18,5 @@ arquivo
 arquivo
 arquivo
 arquivo
+enviando 
+funcionalidade x 
