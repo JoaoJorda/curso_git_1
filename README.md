@@ -27,5 +27,18 @@ Curso de Git
 [Google](https://www.google.com.br/?hl=pt-BR)
 
 
+### Código
+
+```JavaScript
+function soma(a,b){
+    return a + b;
+}```
+
+### lista de tarefas 
+-[x] tarefa feita 
+-[] tarefa não feita 
+
+
+
 
 
