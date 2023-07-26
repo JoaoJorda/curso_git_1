@@ -32,7 +32,8 @@ Curso de Git
 ```JavaScript
 function soma(a,b){
     return a + b;
-}```
+}
+```
 
 ### lista de tarefas 
 -[x] tarefa feita 
